@@ -21,9 +21,6 @@ Modelin yalnızca sonuç vermesi değil, bu sonucu neden verdiğini kullanıcıy
 Sisteme tavuk sayısı, yaş, sıcaklık, aşı durumu gibi bilgiler girildiğinde model, ölüm riskini tahmin eder. Ardından SHAP değerleriyle ölüm kararına en çok etki eden faktörler kullanıcıya görsel ve metinsel olarak açıklanır.
 
 🚀 Kurulum
-bash
-Kopyala
-Düzenle
 git clone https://github.com/kullanici_adi/shap-karar-destek.git
 cd shap-karar-destek
 pip install -r requirements.txt
